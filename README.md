@@ -15,14 +15,14 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 | 3 | **Positioning Statement** (framework + statement) | M3 | ☐ | `03-positioning/positioning.md` |
 | 4 | **Messaging & AI-Generated Asset** | M4 | ☑ | `04-messaging/messaging-and-asset.md` |
 | 5 | **Pricing Recommendation** | M5 | ☑ | `05-pricing/pricing-recommendation.md` |
-| 6 | **Individual Insights** (launch + reflection) | M6 | ☐ | `06-launch/individual-insights.md` |
+| 6 | **Individual Insights** (launch + reflection) | M6 | ☑ | `06-launch/individual-insights.md` |
 | ★ | **Final GTM Presentation** (all six, as one HTML deck) | M6 | ☐ | `06-launch/final-presentation.md` → `final-presentation.html` |
 
 ## The strategy in one sentence
 
-_What is Roamly Groups, who is it for, and what's the single GTM bet you're making?_
+**Win the organizer, remove the coordination tax, and let one successful booking acquire the group.**
 
-___
+---
 
 ## How to submit
 

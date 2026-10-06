@@ -14,7 +14,7 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 | 2 | **Competitive Intelligence & Strategic Bet** (battlecard) | M2 | ☐ | `02-competitive-intel/battlecard-and-bet.md` |
 | 3 | **Positioning Statement** (framework + statement) | M3 | ☐ | `03-positioning/positioning.md` |
 | 4 | **Messaging & AI-Generated Asset** | M4 | ☑ | `04-messaging/messaging-and-asset.md` |
-| 5 | **Pricing Recommendation** | M5 | ☐ | `05-pricing/pricing-recommendation.md` |
+| 5 | **Pricing Recommendation** | M5 | ☑ | `05-pricing/pricing-recommendation.md` |
 | 6 | **Individual Insights** (launch + reflection) | M6 | ☐ | `06-launch/individual-insights.md` |
 | ★ | **Final GTM Presentation** (all six, as one HTML deck) | M6 | ☐ | `06-launch/final-presentation.md` → `final-presentation.html` |
 
@@ -27,7 +27,7 @@ ___
 ## How to submit
 
 - Turn the six deliverable files into your deck. The quickest path: paste them into the **Presentation Prompt Builder** and have an AI tool generate a single, self-contained `final-presentation.html` (see `06-launch/final-presentation.md`). You can also use the Final Project Deliverables template or a tool like Gamma.
-- Submit your own copy to the LMS within 7 days of your cohort ending.
+- Submit your own copy to the LMS within 7 days of the course completing.
 
 ## Repo structure
 
